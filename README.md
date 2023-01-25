@@ -83,7 +83,7 @@
 <br>
 
 
-## ⚙ 시스템 아키텍처(구조) 예시 
+## ⚙ 시스템 아키텍처(구조)  
 ![서비스 아키텍쳐](https://user-images.githubusercontent.com/108060144/214510996-b6ffb597-ff0b-49c8-8cea-a8d1e1f4a93a.jpg)
 
 <br>
