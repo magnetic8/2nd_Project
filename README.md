@@ -128,10 +128,6 @@
 
 <br>
 
-### 주간인기검색어/마이페이지/실천해요
-![주간인기검색어_마이페이지_실천해요](https://user-images.githubusercontent.com/108060144/193868763-0ffbb941-7f0c-4cb7-9da8-006da086a28b.png)
-<br>
-
 ### 공지 게시판
 ![공지 게시판](https://user-images.githubusercontent.com/108060144/215544474-cc4e7397-65b7-4180-8169-395edabddec9.png)
 
