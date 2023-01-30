@@ -36,7 +36,6 @@
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
             <img src="https://img.shields.io/badge/JSON-3776AB?style=for-the-badge&logo=JSON&logoColor=white"/>
-           <img src="https://img.shields.io/badge/JSP-007395?style=for-the-badge&logo=JSP&logoColor=white"/> 
            <img src="https://img.shields.io/badge/Ajax-00599C?style=for-the-badge&logo=Ajax&logoColor=white"/> 
            <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/> 
         </td>
@@ -45,17 +44,24 @@
         <td>라이브러리</td>
         <td>
             <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=BootStrap&logoColor=white"/>
-            <img src="https://img.shields.io/badge/KakaoMap-FFCD00?style=for-the-badge&logo=Kakao&logoColor=white"/>
-           <img src="https://img.shields.io/badge/Kakao Api-007CE2?style=for-the-badge&logo=KaKao Api&logoColor=white">
+            <img src="https://img.shields.io/badge/Thymeleaf-#005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
+           <img src="https://img.shields.io/badge/MyBatis-#5B0BB5?style=for-the-badge&logo=MyBatis&logoColor=white">
         </td>
     </tr>
     <tr>
         <td>개발도구</td>
         <td>
-            <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>
             <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/>
             <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
             <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Gradle-#02303A?style=for-the-badge&logo=Gradle&logoColor=white"/>
+        </td>
+    </tr>
+     <tr>
+        <td>Backend Framework</td>
+        <td>
+            <img src="https://img.shields.io/badge/Spring-#6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
         </td>
     </tr>
     <tr>
@@ -67,7 +73,7 @@
     <tr>
         <td>데이터베이스</td>
         <td>            
-            <img src="https://img.shields.io/badge/Oracle 11g-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+            <img src="https://img.shields.io/badge/MySQL-#4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
         </td>
     </tr>
     <tr>
@@ -75,6 +81,7 @@
         <td>
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Notion-#000000?style=for-the-badge&logo=Notion&logoColor=white"/>
         </td>
     </tr>
 </table>
