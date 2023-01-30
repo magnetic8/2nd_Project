@@ -96,7 +96,8 @@
 <br>
 
 ## 📌 SW유스케이스
-![sw유스퀘어](https://user-images.githubusercontent.com/108060144/215538152-c5ded363-47e2-4fc9-b93a-5d2f34c03d35.png)
+![sw유스퀘어](https://user-images.githubusercontent.com/108060144/215543854-c21bbb6e-a241-434d-9e4c-057282debd2e.png)
+
 
 <br>
 
@@ -108,23 +109,47 @@
 ## 🖥 화면 구성
 
 ### 로그인/회원가입
-![로그인_회원가입](https://user-images.githubusercontent.com/108060144/193868357-2874bd26-9a4a-4399-9092-f04b17b487fe.png)
+![로그인](https://user-images.githubusercontent.com/108060144/215543970-fafff959-5879-4aa1-b0ab-77ffc2e52e54.png)
+![회원가입](https://user-images.githubusercontent.com/108060144/215544044-89e2dc81-0ee7-41f7-809f-d6a97afa6f4a.png)
+![아이디 중복1](https://user-images.githubusercontent.com/108060144/215544148-a07e34ce-197d-48e1-b464-e30517f3e674.png)
+![아이디중복2](https://user-images.githubusercontent.com/108060144/215544182-d191ab75-db53-42cb-afe7-d5bf2314f430.png)
+
 <br>
 
-### 회원정보리스트/회원수정/회원탈퇴
-![회원정보리스트_회원정보수정_회원정보탈퇴](https://user-images.githubusercontent.com/108060144/193868497-1ffd096b-7000-43f1-959b-5ae5d5803cde.png)
+### 회원정보리스트/회원수정
+![마이 페이지](https://user-images.githubusercontent.com/108060144/215544270-5675ddf1-174d-427c-b98d-02d439f8ac2b.png)
+
 <br>
 
-### MAP/유튜브/컬럼게시판
-![map_유튜브_칼럼크롤링](https://user-images.githubusercontent.com/108060144/193868636-60a05278-fd2d-4a82-baad-df04d4815eac.png)
+### 관리자 페이지
+![관리자 페이지](https://user-images.githubusercontent.com/108060144/215544337-dc3f04ff-f897-472c-b65e-ab393863acd7.png)
+![관리자 페이지2](https://user-images.githubusercontent.com/108060144/215544351-27f53d0f-208a-4627-a76e-8f2db130091e.png)
+![관리자 페이지3](https://user-images.githubusercontent.com/108060144/215544360-7c8394db-f2ba-4ee9-a794-c4312902a4a1.png)
+
 <br>
 
 ### 주간인기검색어/마이페이지/실천해요
 ![주간인기검색어_마이페이지_실천해요](https://user-images.githubusercontent.com/108060144/193868763-0ffbb941-7f0c-4cb7-9da8-006da086a28b.png)
 <br>
 
-### 공동구매/자유게시판/함께해요/아나바다
-![공동구매_자유게시판_함께해요_아나바다](https://user-images.githubusercontent.com/108060144/193868899-1bb270bf-16f9-4ffe-89c5-ff6749830c94.png)
+### 공지 게시판
+![공지 게시판](https://user-images.githubusercontent.com/108060144/215544474-cc4e7397-65b7-4180-8169-395edabddec9.png)
+
+<br>
+
+### 성분 검색 페이지/성분 상세 페이지
+![성분 검색페이지](https://user-images.githubusercontent.com/108060144/215544589-b1af4755-c849-4c81-b687-aaf18fdd2557.png)
+![성분 상세 페이지](https://user-images.githubusercontent.com/108060144/215544603-e97b1666-60f9-4497-b421-9fb7f5a2efbc.png)
+![성분 상세페이지2](https://user-images.githubusercontent.com/108060144/215544620-8f960bdc-8c8c-48b8-bfb0-cbfd7f0f448e.png)
+
+<br>
+
+### 제품 검색 페이지/제품 상세 페이지
+![제품 검색](https://user-images.githubusercontent.com/108060144/215544740-4b5672eb-7f99-45df-978f-315068e812ee.png)
+![제품 검색2](https://user-images.githubusercontent.com/108060144/215544757-21ff201a-56ce-48d8-8a2c-63665301fe9a.png)
+![제품 상세페이지](https://user-images.githubusercontent.com/108060144/215544777-91da64c9-49af-4c47-9fc0-b169e974d724.png)
+![제품 상세페이지2](https://user-images.githubusercontent.com/108060144/215544792-9adb2442-53b4-47d7-b7dc-79f4aefe6d9b.png)
+
 <br>
 
 ## 👨‍👩‍👦‍👦 팀원 역할
