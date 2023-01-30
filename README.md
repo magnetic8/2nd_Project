@@ -110,7 +110,8 @@
 
 ### 로그인/회원가입
 ![로그인](https://user-images.githubusercontent.com/108060144/215543970-fafff959-5879-4aa1-b0ab-77ffc2e52e54.png)
-<br>##### 회원가입
+<br>
+##### 회원가입
 ![회원가입](https://user-images.githubusercontent.com/108060144/215544044-89e2dc81-0ee7-41f7-809f-d6a97afa6f4a.png)
 ![아이디 중복1](https://user-images.githubusercontent.com/108060144/215544148-a07e34ce-197d-48e1-b464-e30517f3e674.png)
 ![아이디중복2](https://user-images.githubusercontent.com/108060144/215544182-d191ab75-db53-42cb-afe7-d5bf2314f430.png)
